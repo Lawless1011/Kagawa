@@ -1,6 +1,6 @@
-name: Template
+name: Kagawa
 api: [3.0.0]
-main: bbo51dog\template\Main
+main: bbo51dog\kagawa\KagawaPlugin
 version: 1.0.0
-description: Description
+description: Kagawa Game Prohibition Ordinance
 author: bbo51dog
