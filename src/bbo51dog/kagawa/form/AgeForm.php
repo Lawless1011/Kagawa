@@ -10,8 +10,8 @@ class PrefectureForm implements Form{
     public function jsonSerialize(){
         $data = [
             "type" => "form",
-            "title" => "§l§bKAGAGWA",
-            "content" => "\nあなたは何歳ですか？\n",
+            "title" => "§l§b香川ゲーム抑制システム",
+            "content" => "\n§dあなたのご年齢は？\n",
             "buttons" => [
                 [
                     "text" => "§lUnder 18 / 18歳以下",
