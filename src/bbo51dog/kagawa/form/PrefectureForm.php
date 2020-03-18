@@ -10,7 +10,7 @@ class PrefectureForm implements Form{
     public function jsonSerialize(){
         $data = [
             "type" => "form",
-            "title" => "§l§bKAGAGWA",
+            "title" => "§l§b香川県ゲーム抑制システム",
             "content" => "\nあなたは香川県民ですか？\n",
             "buttons" => [
                 [
