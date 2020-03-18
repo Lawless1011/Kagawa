@@ -14,10 +14,10 @@ class PrefectureForm implements Form{
             "content" => "\nあなたは香川県民ですか？\n",
             "buttons" => [
                 [
-                    "text" => "§lYes / はい",
+                    "text" => "§l§aYes / はい",
                 ],
                 [
-                    "text" => "§lNo / いいえ",
+                    "text" => "§l§cNo / いいえ",
                 ],
             ],
         ];
